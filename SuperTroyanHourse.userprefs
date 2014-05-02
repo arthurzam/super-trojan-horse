@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" ActiveRuntime="Mono 2.10.9" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuperTroyanHourse\TFTPClient.cs">
+    <Files>
+      <File FileName="SuperTroyanHourse\BroadCastWaiter.cs" Line="16" Column="11" />
+      <File FileName="SuperTroyanHourse\commander.cs" Line="521" Column="23" />
+      <File FileName="SuperTroyanHourse\TFTPClient.cs" Line="227" Column="46" />
+      <File FileName="SuperTroyanHourse\Internet.cs" Line="114" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="SuperTroyanHourse" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="TFTPClient.cs" selected="True" />
+          </Node>
+          <Node name="UserCommandGUI" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
